@@ -26,12 +26,12 @@ This behaviour should be done in two diffent [Activities][activitylink], one for
 
 Your task as Android Developer is build your application, test and refactor your code before you give access to your repository.
 
-###### Functionalities to be included
+###### Optional functionalities to be included
 
 1. Search characters by name in the characters list
 2. Create a list of a characters by house, accessing to it by clicking a house image in the list of houses
 3. Capability to work offline
-4. Add transitions between list and detail (Optional)
+4. Add transitions between list and detail
 
 ###### Once you've finished
 
