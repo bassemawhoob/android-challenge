@@ -1,7 +1,7 @@
 # Game of Thrones for Android Challenge
 
 Android developers face challenges almost everyday during development: performance, security, backwards compatibility, testing... And mainly refactoring for it's own or legacy code.
-This repository contains a project to face a small challenge where the developer should build the app along with some new features, detect (and implement) patterns, add tests, and do a clean code.
+This repository contains a project description to face a small challenge where the developer should build the app along with some new features, detect (and implement) patterns, add tests, and do a clean code.
 
 Game of Thrones for Android Challenge offers an app using an API to get data for [Game of Thrones][gameofthroneslink] tv show. Your challenge is to build the app however you see fit!
 
