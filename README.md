@@ -9,7 +9,7 @@ Game of Thrones for Android Challenge offers an app using an API to get data for
 
 Your task is to build an app that retrieves a list of some [Game of Thrones][gameofthroneslink]' characters from an API. The app shows a list of the houses of the characters, the characters themselves and a detail description of each one.
 
-API URL: https://project-8424324399725905479.firebaseio.com/characters.json?print=pretty
+API URL: https://android-challenge-3472e.firebaseio.com/characters.json?print=pretty
 
 This behaviour should be done in two diffent [Activities][activitylink], one for the two lists and other for details of the character:
 
